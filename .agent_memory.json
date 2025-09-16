@@ -1,0 +1,69 @@
+{
+  "threads": {
+    "1842814300676121195": {
+      "subject": "Re: Your Quotation from One Table",
+      "contact": "0331extacc@gmail.com",
+      "order_refs": [
+        "from",
+        "based",
+        "meets"
+      ],
+      "last_total": "3282.93",
+      "last_discount_pct": 0,
+      "currency": "PKR",
+      "summary": "Customer accepted then cancelled quote with totals: PKR 3282.93 for 5 Sample Items and 2 Butter Croissants. Next step: cancel order and notify customer.",
+      "updated_at": "2025-09-12T15:08:37.624894+00:00"
+    },
+    "1842986677150936179": {
+      "subject": "Build smarter apps with AI and real data",
+      "contact": "ship@info.vercel.com",
+      "order_refs": [
+        "licy"
+      ],
+      "last_total": "440",
+      "last_discount_pct": 0,
+      "currency": "PKR",
+      "summary": "No sales quoting information is present in the email thread.",
+      "updated_at": "2025-09-12T15:08:49.026162+00:00"
+    },
+    "1842988714578381314": {
+      "subject": "Updates to Groq's Terms & Policies",
+      "contact": "developer@groq.co",
+      "order_refs": [
+        "licies",
+        "licy"
+      ],
+      "last_total": "",
+      "last_discount_pct": 0,
+      "currency": "PKR",
+      "summary": "No sales quote information is present in the email thread.",
+      "updated_at": "2025-09-12T15:09:00.155867+00:00"
+    }
+  },
+  "contacts": {
+    "0331extacc@gmail.com": {
+      "recent_thread": "1842814300676121195",
+      "last_refs": [
+        "from",
+        "based",
+        "meets"
+      ],
+      "updated_at": "2025-09-12T15:08:37.625896+00:00"
+    },
+    "ship@info.vercel.com": {
+      "recent_thread": "1842986677150936179",
+      "last_refs": [
+        "licy"
+      ],
+      "updated_at": "2025-09-12T15:08:49.027170+00:00"
+    },
+    "developer@groq.co": {
+      "recent_thread": "1842988714578381314",
+      "last_refs": [
+        "licies",
+        "licy"
+      ],
+      "updated_at": "2025-09-12T15:09:00.157868+00:00"
+    }
+  }
+}
